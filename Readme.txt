@@ -1,4 +1,4 @@
-Task description As a second assignment, you must develop a C++ program where two users play cards. The game is about users drawing each card from a dec of cards. Maximum card wins. A winner is decided in the form of the best of three.
+C++ program where two users play cards. The game is about users drawing each card from a dec of cards. Maximum card wins. A winner is decided in the form of the best of three.
 
 Logic: In a Card game there is 52 cards and they are Randomly shuffled before distrubting it to players.
        We need to simulate Card shuffle and then give it to the Players. Whoever get Higher Rank Card wins the Round 1 by 1 and who has more wins at the last. Wins the game.
